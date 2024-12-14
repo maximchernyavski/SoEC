@@ -1,0 +1,13 @@
+POST http://localhost:8080/auth
+content-type: application/json
+
+{
+    "login": "testuser",
+    "password": "test"
+}
+
+# "testuser232"
+# "tesert"
+
+# "testuser1mailcom"
+# "test"

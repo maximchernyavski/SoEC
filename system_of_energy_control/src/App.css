@@ -1,0 +1,22 @@
+body {
+    min-height: 100%;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-color: white;
+    color: black;
+}
+
+.standart_input {
+    margin: 10px !important;
+    width: 30vh;
+}

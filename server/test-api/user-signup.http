@@ -1,0 +1,14 @@
+POST http://localhost:8080/signup
+content-type: application/json
+
+{
+    "login": "testuser232",
+    "password": "tesert",
+    "isAdmin": false
+}
+
+# {
+#     "login": "testuser1mailcom",
+#     "password": "test",
+#     "isAdmin": true
+# }

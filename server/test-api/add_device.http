@@ -1,0 +1,10 @@
+POST http://localhost:8080/add_device
+token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQxMzg0ODIsImlzQWRtaW4iOmZhbHNlLCJsb2dpbiI6InRlc3R1c2VyIiwidXNlcklkIjoxfQ.iXgTcKuN9LDVCLpz0DOG9f7tK4vto18KxqNX_usYUVo
+isAdmin : false
+
+{
+    "name" : "Phone",
+    "settings" : "iOS",
+    "type" : "phone",
+    "state" : true
+}

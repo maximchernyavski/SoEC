@@ -1,0 +1,9 @@
+POST http://localhost:8080/add_norm
+token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQxNTQ5MzksImlzQWRtaW4iOmZhbHNlLCJsb2dpbiI6InRlc3R1c2VyIiwidXNlcklkIjoxfQ.1QT4AU3l_53CzbfQ9cbBZppYoOEnE3cuEHOFkhq5KCY
+isAdmin : false
+
+{
+    "max_value" : 6,
+    "allowable_value" : 14,
+    "device_id" : 3
+}
